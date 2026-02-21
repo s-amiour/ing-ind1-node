@@ -1,0 +1,1 @@
+module.exports = { dbString: 'postgres://release-server/rel_db' };

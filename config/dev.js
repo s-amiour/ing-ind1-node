@@ -1,0 +1,1 @@
+module.exports = { dbString: 'postgres://localhost/dev_db' };
